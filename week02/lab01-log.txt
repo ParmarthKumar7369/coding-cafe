@@ -1,0 +1,126 @@
+    1  passwd parmarth
+    2  wsl -u root
+    3  wsl
+    4  python3 --version
+    5  cd
+    6  pwd
+    7  ls
+    8  ls -a
+    9  ls -l
+   10  pwd
+   11  cls
+   12  clear
+   13  mkdir coding cafe
+   14  ls
+   15  rmdir cafe
+   16  rmdir coding
+   17  ls
+   18  mkdir coding-cafe
+   19  ls
+   20  pwd
+   21  cd coding-cafe/
+   22  pwd
+   23  cd..
+   24  cd ..
+   25  pwd
+   26  cd coding-cafe/
+   27  cd ..
+   28  mkdir coding-cafe/week01
+   29  ls
+   30  cd coding-cafe/
+   31  ls
+   32  mkdir week02
+   33  ls
+   34  cd week02
+   35  cd../week01
+   36  cd ''/week01
+   37  cd ../week011
+   38  cd ../week01
+   39  clear
+   40  cd ../week02
+   41  touch notes.md
+   42  ls
+   43  cd notes.md
+   44  code notes.md
+   45  code coding-cafe/
+   46  cd ..
+   47  code coding-cafe/
+   48  pwd
+   49  cd
+   50  pwd
+   51  cd coding-cafe/
+   52  cd week2
+   53  cd week02
+   54  ls
+   55  code week02
+   56  cose coding-cafe
+   57  cd ..
+   58  code coding cafe
+   59  cd ..
+   60  code coding cafe
+   61  code coding-cafe
+   62  pwd
+   63  clear
+   64  ls
+   65  ls -a
+   66  ls -l
+   67  clear
+   68  echo $path
+   69  which python
+   70  pwd
+   71  cd python3
+   72  where python
+   73  which python
+   74  which python3
+   75  echo $PATH
+   76  pwd
+   77  cd
+   78  cd coding-cafe
+   79  code coding-cafe
+   80  cd ..
+   81  code coding-cafe
+   82  pyton3
+   83  python3 -m venv .venv
+   84  apt install python3.14-venv
+   85  y
+   86  sudo apt update
+   87  sudo apt install python3.14-venv
+   88  ls -la ~/.venv
+   89  rm -rf ~/.venv
+   90  python3 -m venv ~/.venv
+   91  source ~/.venv/bin/activate
+   92  which python
+   93  python --version
+   94  clear
+   95  cd ~/coding-cafe
+   96  python3 -m venv .venv
+   97  ls
+   98  ls -a
+   99  deactivate
+  100  ls
+  101  ls -a
+  102  source .venv/bin/activate
+  103  which python3
+  104  pip list
+  105  pip install requests
+  106  pip list
+  107  deactivate
+  108  clear
+  109  which python
+  110  which python3
+  111  man ls
+  112  ls -h
+  113  man ls
+  114  man man
+  115  history
+  116  python3
+  117  wsl
+  118  cd
+  119  wsk
+  120  wsl
+  121  ping 127.0.0.1
+  122  python3
+  123  cd
+  124  cd coding-cafe
+  125  history
+  126  history > week02/lab01-log.txt
